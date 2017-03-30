@@ -1,1 +1,1 @@
-# training
+# JavaScript Development Environment
